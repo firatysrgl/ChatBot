@@ -94,6 +94,7 @@ Cevap (Response): Sunucudan dönen JSON verisi, harici bir paket kullanılmadan 
 
 Görüntüleme: Gelen cevap RichTextBox üzerine renkli formatta yazdırılır ve hafıza listesine eklenir.
 
+📷 Ara Yüz Ekranı 
 
 ![Ara Yüz Ekranı](https://github.com/firatysrgl/ChatBot/blob/main/screenshot/ss.png)
 
